@@ -1,11 +1,4 @@
-"# Arduino-HIIT-Timer" 
-/*
-    __    _ _ __     __  _                    
-   / /_  (_|_) /_   / /_(_)___ ___  ___  _____
-  / __ \/ / / __/  / __/ / __ `__ \/ _ \/ ___/
- / / / / / / /_   / /_/ / / / / / /  __/ /    
-/_/ /_/_/_/\__/   \__/_/_/ /_/ /_/\___/_/     
-                                                                       
+"# Arduino-HIIT-Timer"                          
 _________________________________________________________________________________
 A High Intensity Interval Training Timer (HIIT) for exercise
 using the built in LED for Arduino Uno/Nano/etc.  Simply plug in
@@ -19,4 +12,4 @@ Routine:
 4. 1 minute warm down, displayed with the LED ON, turning off every 2.5 seconds.
 5. Final flashes for 5 seconds to indicate end of work out
 __________________________________________________________________________________
-  */
+
