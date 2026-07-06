@@ -1,3 +1,5 @@
+<img width="643" height="407" alt="VID_20260706_154202747-ezgif com-optimize" src="https://github.com/user-attachments/assets/b4a2d6af-34c9-4e67-9743-e6061417fcf5" />
+
 "# Arduino-HIIT-Timer"                          
 _________________________________________________________________________________
 A High Intensity Interval Training Timer (HIIT) for exercise
