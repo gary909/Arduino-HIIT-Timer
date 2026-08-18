@@ -15,3 +15,4 @@ Routine:
 5. Final flashes for 5 seconds to indicate end of work out
 __________________________________________________________________________________
 
+TODO: Improve the ending sequence
