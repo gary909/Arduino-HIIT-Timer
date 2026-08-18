@@ -18,6 +18,8 @@ Routine:
 3. 30 seconds high intensity flashes, then 1 minute slow flashes. Repeats 5 times.
 4. 1 minute warm down, displayed with the LED ON, turning off every 2.5 seconds.
 5. Final flashes for 5 seconds to indicate end of work out
+
+TODO: Improve exit notification
 __________________________________________________________________________________
   */
 
