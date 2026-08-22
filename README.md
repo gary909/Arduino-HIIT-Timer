@@ -2,9 +2,9 @@
 
 "# Arduino-HIIT-Timer"                          
 _________________________________________________________________________________
-A High Intensity Interval Training Timer (HIIT) for exercise
+A High Intensity Interval Training Timer (HIIT) for exercise bikes
 using the built in LED for Arduino Uno/Nano/etc.  Simply plug in
-the Arduino, and you'll get the following 10 minute HIIT workout:
+the Arduino, and the following 10 minute workout will start:
 _________________________________________________________________________________
 Routine:
 
